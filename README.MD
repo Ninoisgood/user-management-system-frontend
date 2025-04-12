@@ -1,4 +1,4 @@
-"PADOGA: Front-End / Back-End / Tester"
+"PADOGA, RANIDEL: Front-End / Back-End / Tester"
 
 "LOCAYLOCAY: Front-End / Back-End"
 
