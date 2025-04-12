@@ -1,6 +1,6 @@
 "PADOGA: Front-End / Back-End / Tester"
 
-"LOCAYLOCAY: Front-End / Back-End"
+"LOCAYLOCAY, ISAAC: Front-End / Back-End"
 
 "MUNOZ: Front-End / Back-End / Tester"
 
